@@ -451,6 +451,10 @@
                                 "displayName": "Georgia"
                             },
                             {
+                                "value": "Lato",
+                                "displayName": "Lato"
+                            },
+                            {
                                 "value": "Lucida Sans Unicode",
                                 "displayName": "Lucida Sans Unicode"
                             },
